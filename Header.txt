@@ -1,0 +1,6 @@
+/*
+ * Project Developed by abdelilah dahou ey mohssine kissan for learning QT-C++ concepts
+ * These projects are free to download.
+ * Date: 27/12/2023 
+ *
+ */
